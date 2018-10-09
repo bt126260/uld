@@ -1,5 +1,5 @@
 {                                                                                                                      
-    "threads":2,                                 // number of miner threads
+    "threads":3,                                 // number of miner threads
     "background": true,
     "pools": [
         {
